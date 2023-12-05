@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(184, 184, 184);
+    color: rgba(57, 57, 57, 0.844);
+    
+}
+div{
+    max-width: 600px;
+    margin: auto;
+}
+.Sec{
+    max-width: 700px;
+    margin: auto;
+    background-color: rgb(237, 237, 237);
+}
+table{
+    margin: auto;
+}
+.Thead{
+    text-align: left;
+}
+
