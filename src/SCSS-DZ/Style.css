@@ -11,6 +11,7 @@ div{
     max-width: 700px;
     margin: auto;
     background-color: rgb(237, 237, 237);
+    margin-top: 25px;
 }
 table{
     margin: auto;
@@ -18,4 +19,45 @@ table{
 .Thead{
     text-align: left;
 }
-
+.End{
+    text-align: center;
+}
+.Exp{
+    text-align: center;
+    max-width: 360px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Explore{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.Lea{
+    text-align: center;
+    max-width: 300px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    
+}
+.Learn{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.Name{
+    font-size: 18px;
+}
+.Fir{
+    font-size: 35px;
+}
+.Besh{
+    margin-top: 10px;
+}
+.Tb{
+    border-top: 1px solid darkgray;
+    border-bottom: 1px solid darkgray;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
