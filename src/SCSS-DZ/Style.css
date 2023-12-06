@@ -30,7 +30,7 @@ table{
     margin-bottom: 20px;
 }
 .Explore{
-    background-color: blue;
+    background-color: darkgray;
     color: white;
     font-size: 20px;
 }
@@ -42,7 +42,7 @@ table{
     
 }
 .Learn{
-    background-color: blue;
+    background-color: darkgray;
     color: white;
     font-size: 20px;
 }
@@ -60,4 +60,8 @@ table{
     border-bottom: 1px solid darkgray;
     padding-top: 40px;
     padding-bottom: 40px;
+}
+.logo{
+    font-size: 20px;
+    color: lightskyblue;
 }
